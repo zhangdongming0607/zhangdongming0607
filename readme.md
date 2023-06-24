@@ -1,6 +1,6 @@
 # Welcome
 
-* working in Zhihu FE
+* working in bytedance
 
 [![Zhangdongming0607's github stats](https://github-readme-stats.vercel.app/api?username=zhangdongming0607)](https://github.com/anuraghazra/github-readme-stats)
 
